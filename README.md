@@ -34,7 +34,7 @@
 ### 📈 GitHub सांख्यिकी (Stats):
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=codebylogic&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="CodeByLogic GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codebylogic&show_icons=true&theme=radical" />
 </p>
 
 ---
